@@ -1,6 +1,6 @@
-for x in range(10,100):
+'''for x in range(10,100):
     if(x%2==0):
-        print(x,end=",");
+        print(x,end=",");'''
     
 
 
@@ -27,3 +27,8 @@ for x in range(10,100):
 *****
 ******
 '''
+
+value = ((80/100)*100)
+
+if(value >= 80):
+    print("true")
