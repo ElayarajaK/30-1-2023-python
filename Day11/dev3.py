@@ -14,10 +14,6 @@ add(30,30);
 add(50,50);
 
 
-
-
-
-
 name="raja";
 s_id=30101;
 subject="Math"
