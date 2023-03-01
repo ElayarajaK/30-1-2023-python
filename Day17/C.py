@@ -4,7 +4,7 @@ class Teacher:
     def __init__(self,t_name,t_dep,salary,cname,cid):
         self.t_name=t_name;
         self.t_dep=t_dep;
-        self.salary=salary*;
+        self.salary=salary;
         college_name=cname;
         college_id=cid;
     def printVal(self):

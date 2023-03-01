@@ -19,3 +19,31 @@ print(obj)
 print(obj1)
 '''
 
+'''
+basic
+operators
+datatypes
+variable
+conversion
+condition
+loops
+statements()
+predifined
+userdefined fun
+return statement
+class
+object
+instances
+constructors
+inheritance
+abstract
+overriding 
+datatypes part2
+string
+filehandling
+exception handling
+connectiong with database
+modules
+
+
+'''
