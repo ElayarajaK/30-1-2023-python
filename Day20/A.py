@@ -5,6 +5,7 @@ class Student:
     def setName(self,name,address):
         self.name=name;
         self.address=address;
+        
     
     def getName(self):
         return self.name +"," +self.address;
