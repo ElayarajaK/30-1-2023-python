@@ -1,4 +1,4 @@
-name="    java python     ";
+name="java python angular react mysql oracle";
 
 print(len(name))
 
